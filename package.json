@@ -1,5 +1,7 @@
 {
   "name": "s_and_g",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
